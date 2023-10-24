@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Quick Setup
+
+npm install
+npm run start
+npm install react-scripts --save
+./node_modules/.bin/react-scripts start
+     Ensure that the local node_modules/.bin directory is in your PATH. Or you can run commands directly from node_modules
+npm install -g react-scripts
+
+yarn
+yarn start
+yarn add react-scripts
+
+
+git add . 
+git commit -m "Your comment"
+git push
